@@ -1,4 +1,4 @@
-FROM taylor/ubuntu-baseimage-with-emacs
+FROM ubuntu:14.04
 
 MAINTAINER Taylor Monacelli <tailor@uw.edu>
 
